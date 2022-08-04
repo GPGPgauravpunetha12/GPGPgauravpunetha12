@@ -1,2 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+github+account)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B9F738&background=C9FF2D00&lines=%E2%9C%8C+hi+%2C;I+am+Gaurav+Punetha+a+Student+of+Dit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Padauk&size=30&width=410&height=90&lines=Hi%2C++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+Gaurav+Punetha+;+I'm+interested+in+programming;+and++in+development;+Currently+I'm+learning+and;and+practicing+courses+and+DSA.)](https://git.io/typing-svg)
