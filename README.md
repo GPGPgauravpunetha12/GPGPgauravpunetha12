@@ -1,4 +1,4 @@
-# <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=20D2D6&multiline=true&height=100&lines=Hi+there+I'm+Ankit+Kanyal+%F0%9F%98%81;Welcome+to+my+github+profile!)](https://github.com/GPGPgauravpunetha12) 👋
+# <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&multiline=true&width=435&height=100&lines=Hi+there+I+am+Gaurav+punetha;Welcome+to+my+Github+account)](https://github.com/GPGPgauravpunetha12) 👋
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
 <p align="center"/> Howdy, I'm Gaurav Punetha. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
@@ -17,7 +17,7 @@
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Web Development, JavaScript, Java</p>
 <p>💬 Ask me about Front-End Development,Web3</p>
-<p>📫 How to reach me? <a href="babaelichi123@.com">babaelichil23@gmail.com</a></p>
+<p>📫 How to reach me? <a href="babaelichi123@.com">babaelichiil23@gmail.com</a></p>
 <p>All of my projects are available at <a href="https://github.com/GPGPgauravpunetha12?tab=repositories"></a>https://github.com/GPGPgauravpunetha12?tab=repositories</p>
 <p>⚡ Fun Fact: I love Anime</p>
 
