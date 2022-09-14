@@ -44,12 +44,6 @@
 <img alt="Ubuntu" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Ubuntu.svg"/>|<img alt="Git" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Git.svg"/>|<img alt="VSCode" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/VSCode.svg"/>|<img alt="Atom" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/Atom.svg"/>|<img alt="WordPress" width="30px" src="https://github.com/Ankitkanyal1/Ankitkanyal1/blob/main/icons/WP.svg"/>
  |--|--|--|--|--|
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
-</p>
-
 
 ## 📊 Github Status
 
