@@ -17,7 +17,7 @@
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Web Development, JavaScript, Java</p>
 <p>💬 Ask me about Front-End Development,Web3</p>
-<p>📫 How to reach me? <a href="babaelichi123@.com">babaelichiil23@gmail.com</a></p>
+<p>📫 How to reach me? <a href="babaelichi123@.com">babaelichil23@gmail.com</a></p>
 <p>All of my projects are available at <a href="https://github.com/GPGPgauravpunetha12?tab=repositories"></a>https://github.com/GPGPgauravpunetha12?tab=repositories</p>
 <p>⚡ Fun Fact: I love Anime</p>
 
