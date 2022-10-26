@@ -1,7 +1,7 @@
 # <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&multiline=true&width=435&height=100&lines=Hi+there+I+am+Gaurav+punetha;Welcome+to+my+Github+account)](https://github.com/GPGPgauravpunetha12) 👋
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
-<p align="center"/> Howdy, I'm Gaurav Punetha. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
+<p align="center"/> Hi there, I'm Gaurav Punetha. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
 
 ## 👥 Connect With Me
 <p align="center">
