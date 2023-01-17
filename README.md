@@ -49,7 +49,6 @@
 
 <p><img src="https://metrics.lecoq.io/GPGPgauravpunetha12"><p>
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=GPGPgauravpunetha12"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=GPGPgauravpunetha12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
 
