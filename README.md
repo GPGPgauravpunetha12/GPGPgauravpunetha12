@@ -2,7 +2,7 @@
 <!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
 
 <p align="center"/> Hi there, I'm Gaurav Punetha. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
-
+<img src="https://holopin.me/gpgpgauravpunetha12)](https://holopin.io/@gpgpgauravpunetha12"/>
 ## 👥 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/gaurav-punetha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
