@@ -79,29 +79,15 @@ Currently exploring advanced topics such as:
 
 ## 🚀 Featured Projects
 
-### 🤖 Multi-Agent Research Assistant
+### 🤖[ Multi-Agent Research Assistant](https://github.com/GPGPgauravpunetha12/AI-Powered-Market-Research)
 
-AI-powered research system using LangGraph and LLM orchestration.
+This project implements a multi-agent system to automate market research, AI/ML use case generation, and resource collection. It uses Langchain, LangGraph, Gradio and Tavily API to generate actionable AI solutions tailored to industries or companies.
 
-### 📚 Enterprise RAG Assistant
+### 🌤️  WeatherWise AI
 
-Production-grade RAG application with Azure AI Search and OpenAI.
+An intelligent weather assistant powered by AI agents with tool-calling capabilities. Get real-time weather forecasts using natural language queries!
 
-### 📝 Resume Screening Agent
 
-Multi-agent hiring workflow for candidate evaluation.
-
-### 📊 Financial Analysis Agent
-
-Autonomous agent that performs financial analysis and reporting.
-
-### 🏥 Medical Knowledge Assistant
-
-Healthcare-focused RAG system with vector search.
-
-### 🎯 Autonomous Task Planner
-
-Planner → Executor → Reviewer architecture using LangGraph.
 
 ---
 
