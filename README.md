@@ -1,57 +1,171 @@
-# <h1 align="center"/>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&multiline=true&width=435&height=100&lines=Hi+there+I+am+Gaurav+punetha;Welcome+to+my+Github+account)](https://github.com/GPGPgauravpunetha12) 👋
-<!-- <img width="20%" src="https://i.imgur.com/u2WLlB8.gif" /> -->
-[![An image of @gpgpgauravpunetha12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gpgpgauravpunetha12)](https://holopin.io/@gpgpgauravpunetha12)
-<p align="center"/> Hi there, I'm Gaurav Punetha. I'm passionate Tech Lover Inspired by Imagination. Apart from being an ardent tech enthusiast, I love spending time on design tools and exploring open-source projects.  I enjoy tweaking and tinkering with the gadgets I own, and apart from all this, I enjoy spending my time watching content from some of my favorite creators.  Playing with new software and apps acts like dopamine for me.
+# 👋 Hi, I'm Gaurav Punetha
 
-## 👥 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/gaurav-punetha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="#><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+### 🚀 Agentic AI Engineer | GenAI Developer | Full Stack AI Builder
 
-## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning Web Development, JavaScript, Java</p>
-<p>💬 Ask me about Front-End Development,Web3</p>
-<p>📫 How to reach me? <a href="babaelichi123@.com">babaelichil23@gmail.com</a></p>
-<p>All of my projects are available at <a href="https://github.com/GPGPgauravpunetha12?tab=repositories"></a>https://github.com/GPGPgauravpunetha12?tab=repositories</p>
-<p>⚡ Fun Fact: I love Anime</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Agentic+AI+Engineer;Building+AI+Agents+and+Multi-Agent+Systems;RAG+%7C+LangGraph+%7C+Azure+OpenAI;Python+%7C+Cloud+%7C+Automation;Always+Learning+Something+New" />
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bulma-cyan?style=for-the-badge&logo=bulma&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" style="margin-bottom: 4px;" height="30px">
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+---
 
-</p>
+## 🌟 About Me
 
+I'm a software engineer passionate about building intelligent systems that can reason, plan, and act autonomously.
 
-## Visitors Count 
- <img src="https://count.getloli.com/get/@:GPGPgauravpunetha12" alt=":GPGPgauravpunetha12" />
+My primary focus is on:
 
+* 🤖 AI Agents & Agentic Workflows
+* 🧠 Large Language Models (LLMs)
+* 🔍 Retrieval-Augmented Generation (RAG)
+* 🕸️ Multi-Agent Systems
+* ☁️ Azure AI & Cloud Technologies
+* 🐍 Python Development
+* ⚡ Automation & AI-Powered Solutions
 
-## 📊 Github Status
+Currently exploring advanced topics such as:
 
-<p><img src="https://metrics.lecoq.io/GPGPgauravpunetha12"><p>
+* LangGraph
+* MCP (Model Context Protocol)
+* AI Evaluation Frameworks
+* Autonomous Agents
+* Production-Ready GenAI Applications
+* Enterprise RAG Architectures
 
+---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=GPGPgauravpunetha12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
+## 💻 Tech Stack
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=GPGPgauravpunetha12"><p>
+### 🤖 AI & GenAI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-blue?style=for-the-badge)
+
+### 🔍 RAG & Vector Databases
+
+![Pinecone](https://img.shields.io/badge/Pinecone-005FFF?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-orange?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge)
+
+### 🐍 Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-green?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Multi-Agent Research Assistant
+
+AI-powered research system using LangGraph and LLM orchestration.
+
+### 📚 Enterprise RAG Assistant
+
+Production-grade RAG application with Azure AI Search and OpenAI.
+
+### 📝 Resume Screening Agent
+
+Multi-agent hiring workflow for candidate evaluation.
+
+### 📊 Financial Analysis Agent
+
+Autonomous agent that performs financial analysis and reporting.
+
+### 🏥 Medical Knowledge Assistant
+
+Healthcare-focused RAG system with vector search.
+
+### 🎯 Autonomous Task Planner
+
+Planner → Executor → Reviewer architecture using LangGraph.
+
+---
+
+## 📈 Current Learning Journey
+
+```text
+Agentic AI            ██████████ 100%
+Python                █████████░ 95%
+LangGraph             ████████░░ 85%
+Azure OpenAI          ████████░░ 85%
+RAG Systems           █████████░ 90%
+Docker                ███████░░░ 75%
+Kubernetes            ██████░░░░ 65%
+MCP                   ██████░░░░ 60%
+```
+
+---
+
+## 🎯 2026 Goals
+
+* Build 10 Production-Ready AI Agents
+* Master LangGraph and Multi-Agent Systems
+* Learn MCP Deeply
+* Deploy Enterprise AI Solutions
+* Contribute to Open Source AI Projects
+* Become a Top-Tier AI Engineer
+
+---
+
+## 🏆 Certifications & Learning
+
+* Azure AI Fundamentals
+* Azure OpenAI Services
+* Prompt Engineering
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](YOUR_GITHUB)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+## 💡 Quote I Live By
+
+> "The future belongs to engineers who can build systems that think, reason, and act."
+
+---
+
+⭐ If you like my work, consider following me and exploring my repositories.
